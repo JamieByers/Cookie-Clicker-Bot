@@ -2,6 +2,7 @@ import cv2 as cv
 import numpy as np 
 import pyautogui
 import time 
+#hello !! world!!
 
 #images 
 cookie = cv.imread("C:/Users/jamie/Desktop/Code/Projects/Cookie Clicker Bot/cookie.png", cv.IMREAD_GRAYSCALE)
